@@ -1,0 +1,22 @@
+
+---------------------- Sorting N2 Algorithms ----------------------
+Bubble sort on inverse data completed in 1.578945ms with 4950 comparisons and 4950 swaps.
+Section sort on inverse data completed in 0.355186ms with 4950 comparisons and 99 swaps.
+Insertion sort on inverse data completed in 0.325541ms with 4950 comparisons and 0 swaps.
+Bubble sort on random data completed in 0.357125ms with 4950 comparisons and 2420 swaps.
+Section sort on random data completed in 0.28897ms with 4950 comparisons and 99 swaps.
+Insertion sort on random data completed in 0.248796ms with 2420 comparisons and 0 swaps.
+Bubble sort on almost data completed in 0.296728ms with 4950 comparisons and 153 swaps.
+Section sort on almost data completed in 0.236329ms with 4950 comparisons and 99 swaps.
+Insertion sort on almost data completed in 0.150996ms with 153 comparisons and 0 swaps.
+
+---------------------- Sorting Nlog2N Algorithms ----------------------
+Heap sort on inverse data completed in 0.688209ms with 1522 comparisons and 516 swaps.
+Quick sort on inverse data completed in 0.179532ms with 672 comparisons and 407 swaps.
+Merge sort on inverse data completed in 0.192831ms with 1543 comparisons and 1395 swaps.
+Heap sort on random data completed in 0.145177ms with 1652 comparisons and 568 swaps.
+Quick sort on random data completed in 0.166234ms with 768 comparisons and 481 swaps.
+Merge sort on random data completed in 0.183965ms with 1581 comparisons and 1692 swaps.
+Heap sort on almost data completed in 0.146286ms with 1759 comparisons and 625 swaps.
+Quick sort on almost data completed in 0.162632ms with 645 comparisons and 411 swaps.
+Merge sort on almost data completed in 0.169282ms with 1273 comparisons and 1499 swaps.

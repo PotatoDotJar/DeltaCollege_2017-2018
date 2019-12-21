@@ -1,0 +1,226 @@
+AFG Afghanistan  
+AHO Netherlands Antilles  
+ALB Albania  
+ALG Algeria  
+AND Andorra  
+ANG Angola  
+ANT Antigua & Barbuda  
+ANZ Australasia  
+ARG Argentina  
+ARM Armenia  
+ARU Aruba  
+ASA American Samoa  
+AUS Australia  
+AUT Austria  
+AZE Azerbaijan  
+BAH Bahamas  
+BAN Bangladesh  
+BAR Barbados  
+BDI Burundi  
+BEL Belgium  
+BEN Benin  
+BER Bermuda  
+BHU Bhutan  
+BIH Bosnia-Herzegovina  
+BIZ Belize  
+BLR Belarus  
+BOH Bohemia  
+BOL Bolivia  
+BOT Botswana  
+BRA Brazil  
+BRN Bahrain  
+BRU Brunei  
+BUL Bulgaria  
+BUR Burkina Faso  
+BWI West Indies Federation  
+CAF Central African Republic  
+CAM Cambodia  
+CAN Canada  
+CAY Cayman Islands  
+CGO Congo-Brazzaville  
+CHA Chad  
+CHI Chile  
+CHN China  
+CIV Cote d'Ivoire  
+CMR Cameroon  
+COD Democratic Republic of the Congo  
+COK Cook Islands  
+COL Colombia  
+COM Comoros  
+CPV Cape Verde  
+CRC Costa Rica  
+CRO Croatia  
+CUB Cuba  
+CYP Cyprus  
+CZE Czech Republic  
+DEN Denmark  
+DJI Djibouti  
+DMA Dominica  
+DOM Dominican Republic  
+ECU Ecuador  
+EGY Egypt  
+ERI Eritrea  
+ESA El Salvador  
+ESP Spain  
+EST Estonia  
+ETH Ethiopia  
+EUN Unified Team  
+FIJ Fiji  
+FIN Finland  
+FRA France  
+FRG West Germany  
+FSM Federal States of Micronesia  
+GAB Gabon  
+GAM Gambia  
+GBR Great Britain  
+GBS Guinea Bissau  
+GDR German Democratic Republic  
+GEO Georgia  
+GEQ Equatorial Guinea  
+GER Germany  
+GHA Ghana  
+GRE Greece  
+GRN Grenada  
+GUA Guatemala  
+GUI Guinea  
+GUM Guam  
+GUY Guyana  
+HAI Haiti  
+HKG Hong Kong  
+HON Honduras  
+HUN Hungary  
+INA Indonesia  
+IND India  
+IOA Independent Olympic Athletes  
+IRI Iran  
+IRL Ireland  
+IRQ Iraq  
+ISL Iceland  
+ISR Israel  
+ISV Virgin Islands  
+ITA Italy  
+IVB British Virgin Islands  
+JAM Jamaica  
+JOR Jordan  
+JPN Japan  
+KAZ Kazakhstan  
+KEN Kenya  
+KGZ Kyrgyzstan  
+KIR Kiribati  
+KOR South Korea  
+KOS Kosovo  
+KSA Saudi Arabia  
+KUW Kuwait
+KUW Kuwait  
+LAO Laos
+LAT Latvia
+LBA Libya
+LBR Liberia
+LCA Saint Lucia
+LES Lesotho
+LIB Lebanon
+LIE Liechtenstein
+LTU Lithuania
+LUX Luxembourg
+MAD Madagascar
+MAR Morocco
+MAS Malaysia
+MAW Malawi
+MDA Moldova
+MDV Maldives
+MEX Mexico
+MGL Mongolia
+MHL Marshall Islands
+MKD Macedonia
+MLI Mali
+MLT Malta
+MNE Montenegro
+MON Monaco
+MOZ Mozambique
+MRI Mauritius
+MTN Mauritania
+MYA Myanmar
+NAM Namibia
+NBO North Borneo
+NCA Nicaragua
+NED Netherlands
+NEP Nepal
+NGR Nigeria
+NIG Niger
+NOR Norway
+NRU Nauru
+NZL New Zealand
+OMA Oman
+PAK Pakistan
+PAN Panama
+PAR Paraguay
+PER Peru
+PHI Philippines
+PLE Palestine
+PLW Palau
+PNG Papua New Guinea
+POL Poland
+POR Portugal
+PRK North Korea
+PUR Puerto Rico
+QAT Qatar
+ROA Team of Refugee Olympic Athletes
+ROU Romania
+RSA South Africa
+RUS Russia
+RWA Rwanda
+SAA Saar
+SAM Samoa
+SCG Serbia and Montenegro
+SEN Senegal
+SEY Seychelles
+SIN Singapore
+SKN Saint Kitts and Nevis
+SLE Sierra Leone
+SLO Slovenia
+SMR San Marino
+SOL Solomon Islands
+SOM Somalia
+SRB Serbia
+SRI Sri Lanka
+SSD South Sudan
+STP Sao Tome and Principe
+SUD Sudan
+SUI Switzerland
+SUR Suriname
+SVK Slovakia
+SWE Sweden
+SWZ Swaziland
+SYR Syria
+TAN Tanzania
+TCH Czechoslovakia
+TGA Tonga
+THA Thailand
+TJK Tajikistan
+TKM Turkmenistan
+TLS East Timor
+TOG Togo
+TPE Taiwan
+TTO Trinidad and Tobago
+TUN Tunisia
+TUV Tuvalu
+TUR Turkey
+UAE United Arab Emirates
+UAR United Arab Republic
+UGA Uganda
+UKR Ukraine
+URS Soviet Union
+URU Uruguay
+USA United States of America
+UZB Uzbekistan
+VAN Vanuatu
+VEN Venezuela
+VIE Vietnam
+VIN Saint Vincent and Grenadines
+VNM South Vietnam
+YAR North Yemen
+YEM Yemen
+YMD South Yemen
+YUG Yugoslavia
+ZAM Zambia
+ZIM Zimbabwe

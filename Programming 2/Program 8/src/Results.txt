@@ -1,0 +1,5 @@
+From my testing, I have concluded the best timing for the Red/Green light cycle would be 4-5 minutes and a yellow light time of 3 seconds.
+
+Average wait time was anywhere from 30 seconds to 2 minutes.
+
+NOTE: This is using a probability of en-queuing at 50% for all directions.

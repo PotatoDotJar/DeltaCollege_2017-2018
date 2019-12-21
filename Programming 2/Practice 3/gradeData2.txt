@@ -1,0 +1,9 @@
+Doe,10123,A,3.7,1
+Smith,10254,B,2.9,3
+Jones,10876,A,3.5,0
+Washington,10334,C,2.7,1
+Lincoln,10614,D,1.9,2
+Jefferson,10385,B,2.3,0
+Franklin,11003,A,3.4,0
+Madison,10145,B,2.8,4
+Grant,10073,B,2.5,2

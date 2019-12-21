@@ -1,0 +1,67 @@
+CST090,Beginning Computer Concepts
+CST103,Windows Foundations
+CST104,Microsoft Word Foundations
+CST105,Outlook
+CST106,Internet Foundations
+CST107,Microsoft Publisher
+CST110,Web Content Development
+CST115W,e-Commerce Concepts
+CST120,PC Operating System Command Line Interface (DOS)
+CST123,Windows Operating System
+CST126,Unix/Linux Operating System
+CST128,PC Hardware Concepts and Troubleshooting
+CST129,Mac OS Troubleshooting
+CST133W,Computer Concepts & Competencies
+CST134,Micro Computers in Business Using MS Office
+CST135,Help Desk Fundamentals
+CST147,Electronic Media Communication
+CST150W,Information Security Policies Procedures and Fundamentals
+CST151,Spreadsheet Fundamentals
+CST152,Implementing Network Security
+CST153,Implementing Firewalls
+CST154W,Incident Response and Disaster Recovery
+CST155,Microsoft EXCEL
+CST156,Implementing Wireless Security
+CST158,Network Intrusion Security Testing
+CST159,Database Operations
+CST160,Networking Essentials
+CST161,Introduction to Networking
+CST162,Introduction to Novell Network Administration
+CST163,Introduction to Windows Network Administration
+CST164,Routing and Switching Essentials
+CST165,Linux Networking I
+CST171,Visual BASIC Programming I
+CST173,Introduction to Programming
+CST180,C++ Programming
+CST183,Principles of Computer Programming I
+CST184,Mobile Apps Programming - iOS
+CST185,Android Application Development
+CST186,Introduction to Game Programming
+CST204,Microsoft Word: Intermediate
+CST210,Website Development
+CST214,JavaScript Programming
+CST216,Web Site Management
+CST217,Web Server Programming
+CST219W,Web Site Deployment
+CST228,Advanced PC Troubleshooting
+CST235W,Systems Analysis and Design
+CST257,Database MS Access
+CST258,Introduction to Structured Query Language
+CST259,Database Administration
+CST260,Scaling Networks
+CST262,Advanced Novell Networking
+CST263,Advanced Microsoft Networking
+CST264,Connecting Networks
+CST265,Linux Networking II
+CST266,Information Security
+CST267,Introduction to Computer Forensics
+CST268W,Special Topics in IT Support
+CST269,Cisco Security
+CST270,Special Topics in Network Administration
+CST271,Visual Basic Programming II
+CST273,MS Applications Using Visual BASIC
+CST274,Network+ Certification Prep
+CST278,A+ Certification Prep
+CST283,Principles of Computer Programming II
+CST284W,Business Information Technology Capstone
+CST392,Instructional Technology for Educators

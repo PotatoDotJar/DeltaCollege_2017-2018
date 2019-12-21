@@ -1,0 +1,15 @@
++ BigHex()
+
++ BigHex(String filename)
+
++ increment() : void
+
++ decrement() : void
+
++ and(BigHex): BigHex
+
++ or(BigHex) : BigHex
+
++ xor(BigHex): BigHex
+
++ toString()  : String

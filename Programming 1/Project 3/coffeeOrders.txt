@@ -1,0 +1,16 @@
+CoffeeJoes       r b  34 1
+LittleBs         r b  12 2
+CentralSchools   s n   8
+TomHortum        r b 840 2
+IslandLakeLatte  s b 300 
+DeltaCollege     r n  45 1
+MoonDoes         r b  88 2
+CanadianBaconAsc r b 600 
+MayaBeans        s b  98
+JennyJava        s b  57
+MagicJoes        s b 180
+StateOfMichigan  s n 400
+BeanOfCaffeine   s b  42
+BigBeanRoasters  r b  50 1
+CityOfUnivCenter s n 400
+CoffeeMasters    s b 222
